@@ -2,6 +2,7 @@
 I have developed during one module (Statistical Physics) of my Physics bachelor's at the University of Bucharest a simulation for order-disorder transitions in binary alloys using the Monte Carlo method.
 
 **Results**
+
 128 x 128 lattice
 
 ![128 4000000](https://user-images.githubusercontent.com/45739840/125443735-73c52fc9-9329-4493-9079-0feac1a55586.png)
