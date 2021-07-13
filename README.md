@@ -4,8 +4,13 @@ I have developed during one module (Statistical Physics) of my Physics bachelor'
 **Results**
 128 x 128 lattice
 ![128 4000000](https://user-images.githubusercontent.com/45739840/125443735-73c52fc9-9329-4493-9079-0feac1a55586.png)
+
 Order parameter
-![order parameter](https://user-images.githubusercontent.com/45739840/125443775-6161d73d-868f-472c-b31b-88ba4510a128.png)
+
+![order parameter](https://user-images.githubusercontent.com/45739840/125443775-6161d73d-868f-472c-b31b-88ba4510a128.png) 
+
 ![DCT](https://user-images.githubusercontent.com/45739840/125443800-63577ec7-024f-466f-b54a-f059eec13a0b.png)
-![DHT](https://user-images.githubusercontent.com/45739840/125443814-c6f79824-79da-4c15-a7a7-3cd4db6af1db.png)
+
 ![DLT](https://user-images.githubusercontent.com/45739840/125443818-0cac9246-57e3-4554-ba95-2f0bc4220300.png)
+
+
